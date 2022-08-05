@@ -1,0 +1,11 @@
+{
+  "name": "iconsax-started",
+  "version": "0.0.1",
+  "module": "src/index.js",
+  "scripts": {
+    "dev": "bun src/index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  }
+}

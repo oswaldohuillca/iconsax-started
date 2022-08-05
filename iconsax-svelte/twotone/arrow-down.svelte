@@ -1,0 +1,9 @@
+
+  <script lang='ts'>
+    export let color:string = '#292D32'
+  </script>
+  
+<path d="M19.9201 8.9502L13.4001 15.4702C12.6301 16.2402 11.3701 16.2402 10.6001 15.4702L4.08008 8.9502" stroke={color} stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+
+  

@@ -1,0 +1,11 @@
+
+  <script lang='ts'>
+    export let color:string = '#292D32'
+  </script>
+  
+<path d="M2.44922 14.97C3.51922 18.41 6.39923 21.06 9.97923 21.79" stroke={color} stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.05078 10.98C2.56078 5.93 6.82078 2 12.0008 2C17.1808 2 21.4408 5.94 21.9508 10.98" stroke={color} stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.0098 21.8C17.5798 21.07 20.4498 18.45 21.5398 15.02" stroke={color} stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+
+  
