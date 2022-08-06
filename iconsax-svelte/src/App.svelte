@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Iconsax from "./Iconsax.svelte";
+  import X3square from "../bulk/Check.svelte";
 </script>
 
-<Iconsax icon="activity" />
+<X3square color="blue" />

@@ -1,10 +1,9 @@
 {
   "name": "iconsax-svelte",
-  "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An icon library for svelte.",
   "license": "MIT",
-  "main": "dist/index.js",
+  "main": "src",
   "svelte": "src/index.ts",
   "keywords": [
     "icons svelte",

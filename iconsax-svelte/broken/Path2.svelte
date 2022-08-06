@@ -1,0 +1,13 @@
+
+  <script lang='ts'>
+    export const width: number = 24;
+    export const height: number = 24;
+    export let color: string = "#292D32";
+  </script>
+  <svg width={width} height={height} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.87007 22.0001H14.1601C15.7801 22.0001 16.8501 20.8401 16.5301 19.4301L15.8401 16.3501H8.20007L7.51007 19.4301C7.20007 20.7601 8.34007 22.0001 9.87007 22.0001Z" stroke={color} stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.7692 13.7401C20.4092 12.2801 20.4792 11.2601 19.1792 9.61012L13.9892 3.03012C12.8992 1.65012 11.1192 1.65012 10.0192 3.03012L4.83916 9.61012C3.53916 11.2601 3.53916 12.3301 5.24916 13.7401L8.18916 16.3501" stroke={color} stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0098 2.66992V6.96992" stroke={color} stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+  
