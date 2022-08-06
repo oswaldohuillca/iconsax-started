@@ -2,6 +2,7 @@
   "name": "iconsax-started",
   "version": "0.0.1",
   "module": "src/index.js",
+  "author": "oswaldohuillca<oswaldohuillca@gmail.com>",
   "scripts": {
     "dev": "bun src/index.ts"
   },
